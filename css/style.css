@@ -1,0 +1,14 @@
+/* google font */
+@import url('');
+
+html, body {
+    font-size: 14px;
+    font-family: 'Noto Serif JP', serif;
+    background-color: white;
+    z-index: -1;
+}
+
+/* レスポンシブ対応 */
+@media screen and (max-width:768px) {
+
+}
